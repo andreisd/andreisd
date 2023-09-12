@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrei Savu (25 yo)
+- 👋 Hi, I’m Andrei Savu (26 yo)
 - 👨‍💻 Frontend Developer currently based in Bucharest
 
 <!---
